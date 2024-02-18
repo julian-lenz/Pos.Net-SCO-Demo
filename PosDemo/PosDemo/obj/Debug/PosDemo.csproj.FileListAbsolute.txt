@@ -1,0 +1,14 @@
+C:\Users\Noah Ebner\Desktop\FH\Pos.Net-SCO-Demo-main\PosDemo\PosDemo\obj\Debug\PosDemo.csproj.AssemblyReference.cache
+C:\Users\Noah Ebner\Desktop\FH\Pos.Net-SCO-Demo-main\PosDemo\PosDemo\obj\Debug\PosDemo.csproj.SuggestedBindingRedirects.cache
+C:\Users\Noah Ebner\Desktop\FH\Pos.Net-SCO-Demo-main\PosDemo\PosDemo\bin\Debug\PosDemo.exe.config
+C:\Users\Noah Ebner\Desktop\FH\Pos.Net-SCO-Demo-main\PosDemo\PosDemo\bin\Debug\PosDemo.exe
+C:\Users\Noah Ebner\Desktop\FH\Pos.Net-SCO-Demo-main\PosDemo\PosDemo\bin\Debug\PosDemo.pdb
+C:\Users\Noah Ebner\Desktop\FH\Pos.Net-SCO-Demo-main\PosDemo\PosDemo\obj\Debug\PosDemo.PosDemo.resources
+C:\Users\Noah Ebner\Desktop\FH\Pos.Net-SCO-Demo-main\PosDemo\PosDemo\obj\Debug\PosDemo.Properties.Resources.resources
+C:\Users\Noah Ebner\Desktop\FH\Pos.Net-SCO-Demo-main\PosDemo\PosDemo\obj\Debug\PosDemo.csproj.GenerateResource.cache
+C:\Users\Noah Ebner\Desktop\FH\Pos.Net-SCO-Demo-main\PosDemo\PosDemo\obj\Debug\PosDemo.csproj.CoreCompileInputs.cache
+C:\Users\Noah Ebner\Desktop\FH\Pos.Net-SCO-Demo-main\PosDemo\PosDemo\obj\Debug\PosDemo.exe
+C:\Users\Noah Ebner\Desktop\FH\Pos.Net-SCO-Demo-main\PosDemo\PosDemo\obj\Debug\PosDemo.pdb
+C:\Users\Noah Ebner\Desktop\FH\Pos.Net-SCO-Demo-main\PosDemo\PosDemo\bin\Debug\RGBLightServiceObject.dll
+C:\Users\Noah Ebner\Desktop\FH\Pos.Net-SCO-Demo-main\PosDemo\PosDemo\bin\Debug\RGBLightServiceObject.pdb
+C:\Users\Noah Ebner\Desktop\FH\Pos.Net-SCO-Demo-main\PosDemo\PosDemo\obj\Debug\PosDemo.csproj.CopyComplete
